@@ -1,0 +1,8 @@
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.csproj.AssemblyReference.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.AssemblyInfoInputs.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.AssemblyInfo.cs
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.csproj.CoreCompileInputs.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminApi.MvcApplicationPartsAssemblyInfo.cache

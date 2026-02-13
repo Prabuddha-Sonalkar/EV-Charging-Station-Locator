@@ -1,0 +1,209 @@
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\appsettings.Development.json
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\appsettings.json
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.staticwebassets.endpoints.json
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.exe
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.deps.json
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.runtimeconfig.json
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.dll
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.pdb
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pro\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.AssemblyReference.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfoInputs.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfo.cs
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.CoreCompileInputs.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cs
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\scopedcss\bundle\AdminRole.styles.css
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.development.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.Up2Date
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.dll
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\refint\AdminRole.dll
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.pdb
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.genruntimeconfig.cache
+D:\pro\dotnet\AdminRole\obj\Debug\net8.0\ref\AdminRole.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.AssemblyReference.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfoInputs.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfo.cs
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.CoreCompileInputs.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cs
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\appsettings.Development.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\appsettings.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.staticwebassets.endpoints.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.exe
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.deps.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.runtimeconfig.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.pdb
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\scopedcss\bundle\AdminRole.styles.css
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.Up2Date
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\refint\AdminRole.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.pdb
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.genruntimeconfig.cache
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\obj\Debug\net8.0\ref\AdminRole.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\MySqlConnector.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project and codes\EvChargerLocator\dotnet\AdminRole\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\appsettings.Development.json
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\appsettings.json
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.staticwebassets.endpoints.json
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.exe
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.deps.json
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.runtimeconfig.json
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.pdb
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\MySqlConnector.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\pro1\dotnet\AdminRole\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.AssemblyReference.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfoInputs.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfo.cs
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.CoreCompileInputs.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cs
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\scopedcss\bundle\AdminRole.styles.css
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.development.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.Up2Date
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.dll
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\refint\AdminRole.dll
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.pdb
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.genruntimeconfig.cache
+D:\pro1\dotnet\AdminRole\obj\Debug\net8.0\ref\AdminRole.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\appsettings.Development.json
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\appsettings.json
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.staticwebassets.endpoints.json
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.exe
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.deps.json
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.runtimeconfig.json
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\AdminRole.pdb
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\MySqlConnector.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project and codes\ev\dotnet\AdminRole\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.AssemblyReference.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfoInputs.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.AssemblyInfo.cs
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.CoreCompileInputs.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cs
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.MvcApplicationPartsAssemblyInfo.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\scopedcss\bundle\AdminRole.styles.css
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.csproj.Up2Date
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.dll
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\refint\AdminRole.dll
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.pdb
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\AdminRole.genruntimeconfig.cache
+D:\Project and codes\ev\dotnet\AdminRole\obj\Debug\net8.0\ref\AdminRole.dll
